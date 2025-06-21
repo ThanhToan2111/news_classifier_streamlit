@@ -35,3 +35,6 @@
 -   **Lưu trữ mô hình**: Joblib
 
 ## 📂 Cấu trúc thư mục
+![Screenshot 2025-06-21 080838](https://github.com/user-attachments/assets/df22c82b-b255-42e7-85c4-87fec5dcc220)
+
+
