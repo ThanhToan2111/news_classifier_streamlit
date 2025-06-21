@@ -14,7 +14,8 @@
 
 *Mẹo: Hãy chạy ứng dụng trên máy của bạn, chụp một bức ảnh màn hình đẹp và thay thế liên kết bên dưới để README của bạn trông chuyên nghiệp hơn.*
 
-![Demo ứng dụng](link_den_anh_chup_man_hinh_cua_ban.png)
+
+![Demo ứng dụng](https://github.com/user-attachments/assets/3593dd7d-add9-4bfe-9f1f-b5a00c69c9a7)
 
 ## ✨ Tính năng
 
